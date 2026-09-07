@@ -157,23 +157,11 @@ Full detail, impact analysis, and remediation guidance for each finding is avail
 ## 8. Repository Contents
 
 ```
-├── Mediroza_Pentest_Report.docx   # Full professional pentest report
-├── evidence/
-│   ├── 01_authentication_bypass.png
-│   ├── 02_broken_access_control.png
-│   ├── 03_password_recovery_process.png
-│   ├── 04_recovered_document_sample.png
-│   └── 05_exposed_backup_resource.png
-└── README.md
 ```
 
 *(Raw recovered documents, the database backup, and unredacted staff or shareholder data are withheld from this public repository and were provided to the client and instructor separately, in line with responsible handling of sensitive data.)*
 
-## 9. Full Report
-
-See [`Mediroza_Pentest_Report.docx`](./Mediroza_Pentest_Report.docx) for the complete write-up, including the executive summary, scope and methodology, findings and proof of exploitation, risk ratings, and recommendations and remediation guidance.
-
-## 10. Skills Demonstrated
+## 9. Skills Demonstrated
 
 <p align="center">
 <img src="https://img.shields.io/badge/Web%20Application%20Security-13293D?style=for-the-badge" alt="Web Application Security">
@@ -199,7 +187,7 @@ See [`Mediroza_Pentest_Report.docx`](./Mediroza_Pentest_Report.docx) for the com
 **Mentor: Waqas Karim, CCIE**
 Networkwalks Batch B082 - Week 4
 
-LinkedIn: *[add your LinkedIn profile URL here]*
+LinkedIn: www.linkedin.com/in/nashrah-bashir
 
 Target: `https://medirozahospital.com`
 
